@@ -16,7 +16,7 @@ class monsters {
     
     }
     getlife( ) {
-            console.log()
+            console.log(this.pv)
         
         }
 
