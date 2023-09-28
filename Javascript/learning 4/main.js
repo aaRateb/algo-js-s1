@@ -25,7 +25,7 @@ class monsters {
 let reinor = new hero ("Reinor", 12, 300)
 let gnome = new monsters (10, 1200)
 
-
+console.log(reinor.name)
 
 if (gnome.pv -= reinor.attack <=0) {
     console.log("Le gnome est mort.")
