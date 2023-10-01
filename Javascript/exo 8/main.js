@@ -83,5 +83,4 @@ while(pikachu.hp >= 0 || lucario >= 0) {
         console.log(pikachu.name + " est mort.")
         break
     }
-
-}
+)=
